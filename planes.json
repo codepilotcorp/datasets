@@ -1,0 +1,470 @@
+[{
+    "name": "Airbus A220",
+    "type": "Jet",
+    "seats": "108-160",
+    "seats_per_row": "5",
+    "year": "2016",
+    "country": "Canada"
+}, {
+    "name": "Antonov An-140",
+    "type": "Turboprop",
+    "seats": "52",
+    "seats_per_row": "4",
+    "year": "2002",
+    "country": "Ukraine"
+}, {
+    "name": "Antonov An-148",
+    "type": "Jet",
+    "seats": "68\\u201399",
+    "seats_per_row": "5",
+    "year": "2009",
+    "country": "Ukraine"
+}, {
+    "name": "ATR 42",
+    "type": "Turboprop",
+    "seats": "40-52",
+    "seats_per_row": "4",
+    "year": "1985",
+    "country": "France & Italy"
+}, {
+    "name": "ATR 72",
+    "type": "Turboprop",
+    "seats": "68-74",
+    "seats_per_row": "4",
+    "year": "1989",
+    "country": "France & Italy"
+}, {
+    "name": "Bombardier CRJ700/900/1000",
+    "type": "Jet",
+    "seats": "66-104",
+    "seats_per_row": "4",
+    "year": "2001",
+    "country": "Canada"
+}, {
+    "name": "Bombardier Dash 8",
+    "type": "Turboprop",
+    "seats": "37-90",
+    "seats_per_row": "4",
+    "year": "1984",
+    "country": "Canada"
+}, {
+    "name": "Britten-Norman Islander",
+    "type": "Utility",
+    "seats": "9",
+    "seats_per_row": "2",
+    "year": "1967",
+    "country": "UK"
+}, {
+    "name": "CASA C-212 Aviocar",
+    "type": "Utility",
+    "seats": "26",
+    "seats_per_row": "3",
+    "year": "1974",
+    "country": "Spain"
+}, {
+    "name": "CASA/IPTN CN-235",
+    "type": "Turboprop",
+    "seats": "51",
+    "seats_per_row": "4",
+    "year": "1988",
+    "country": "Spain & Indonesia"
+}, {
+    "name": "Cessna 208",
+    "type": "Utility",
+    "seats": "13",
+    "seats_per_row": "3",
+    "year": "1984",
+    "country": "USA"
+}, {
+    "name": "Comac ARJ21",
+    "type": "Jet",
+    "seats": "78-105",
+    "seats_per_row": "5",
+    "year": "2016",
+    "country": "China"
+}, {
+    "name": "DHC-6 Twin Otter (Viking -400)",
+    "type": "Utility",
+    "seats": "19",
+    "seats_per_row": "3",
+    "year": "2010",
+    "country": "Canada"
+}, {
+    "name": "Dornier Do 228/Do 228NG",
+    "type": "Utility",
+    "seats": "19",
+    "seats_per_row": "2",
+    "year": "1982",
+    "country": "Germany"
+}, {
+    "name": "Embraer E-Jet E2 family",
+    "type": "Jet",
+    "seats": "80-146",
+    "seats_per_row": "4",
+    "year": "2018",
+    "country": "Brazil"
+}, {
+    "name": "Embraer E-Jet family",
+    "type": "Jet",
+    "seats": "66-124",
+    "seats_per_row": "4",
+    "year": "2004",
+    "country": "Brazil"
+}, {
+    "name": "Embraer ERJ family",
+    "type": "Jet",
+    "seats": "37\\u201350",
+    "seats_per_row": "3",
+    "year": "1997",
+    "country": "Brazil"
+}, {
+    "name": "Harbin Y-12",
+    "type": "Utility",
+    "seats": "17",
+    "seats_per_row": "3",
+    "year": "1985",
+    "country": "China"
+}, {
+    "name": "Ilyushin Il-114",
+    "type": "Turboprop",
+    "seats": "52\\u201364",
+    "seats_per_row": "4",
+    "year": "1998",
+    "country": "Russia"
+}, {
+    "name": "Let L-410 Turbolet",
+    "type": "Utility",
+    "seats": "19",
+    "seats_per_row": "3",
+    "year": "1970",
+    "country": "Czech Republic"
+}, {
+    "name": "Mitsubishi MRJ",
+    "type": "Jet",
+    "seats": "69-92",
+    "seats_per_row": "4",
+    "year": "2020 (est)",
+    "country": "Japan"
+}, {
+    "name": "PZL M28 Skytruck",
+    "type": "Utility",
+    "seats": "18",
+    "seats_per_row": "3",
+    "year": "1993",
+    "country": "Poland"
+}, {
+    "name": "Sukhoi Superjet 100",
+    "type": "Jet",
+    "seats": "87-108",
+    "seats_per_row": "5",
+    "year": "2011",
+    "country": "Russia"
+}, {
+    "name": "Xian Y-7 / MA60 / MA600",
+    "type": "Turboprop",
+    "seats": "52\\u201362",
+    "seats_per_row": "4",
+    "year": "1984",
+    "country": "China"
+}, {
+    "name": "Antonov An-24",
+    "type": "Turboprop",
+    "seats": "40-50",
+    "seats_per_row": "4",
+    "year": "1962",
+    "country": "Ukraine"
+}, {
+    "name": "BAe 146/Avro RJ",
+    "type": "Jet",
+    "seats": "70-112",
+    "seats_per_row": "5",
+    "year": "1983",
+    "country": "UK"
+}, {
+    "name": "BAe ATP",
+    "type": "Turboprop",
+    "seats": "64",
+    "seats_per_row": "4",
+    "year": "1988",
+    "country": "UK"
+}, {
+    "name": "BAe Jetstream",
+    "type": "Utility",
+    "seats": "19",
+    "seats_per_row": "3",
+    "year": "1982",
+    "country": "UK"
+}, {
+    "name": "BAe Jetstream 41",
+    "type": "Turboprop",
+    "seats": "29-30",
+    "seats_per_row": "3",
+    "year": "1992",
+    "country": "UK"
+}, {
+    "name": "Beechcraft 1900",
+    "type": "Utility",
+    "seats": "19",
+    "seats_per_row": "2",
+    "year": "1984",
+    "country": "USA"
+}, {
+    "name": "Beechcraft Model 99",
+    "type": "Turboprop",
+    "seats": "15",
+    "seats_per_row": "2",
+    "year": "1968",
+    "country": "USA"
+}, {
+    "name": "Boeing 717",
+    "type": "Jet",
+    "seats": "106-117",
+    "seats_per_row": "5",
+    "year": "1999",
+    "country": "USA"
+}, {
+    "name": "Bombardier CRJ100/200",
+    "type": "Jet",
+    "seats": "50",
+    "seats_per_row": "4",
+    "year": "1992",
+    "country": "Canada"
+}, {
+    "name": "Britten-Norman Trislander",
+    "type": "Utility",
+    "seats": "16-17",
+    "seats_per_row": "2",
+    "year": "1971",
+    "country": "UK"
+}, {
+    "name": "de Havilland Canada Dash 7",
+    "type": "Turboprop",
+    "seats": "50",
+    "seats_per_row": "4",
+    "year": "1978",
+    "country": "Canada"
+}, {
+    "name": "DHC-6 Twin Otter (-100/-200/-300)",
+    "type": "Utility",
+    "seats": "19-20",
+    "seats_per_row": "3",
+    "year": "1966",
+    "country": "Canada"
+}, {
+    "name": "Dornier 328",
+    "type": "Turboprop",
+    "seats": "30-33",
+    "seats_per_row": "3",
+    "year": "1993",
+    "country": "Germany"
+}, {
+    "name": "Embraer EMB 110 Bandeirante",
+    "type": "Utility",
+    "seats": "15-21",
+    "seats_per_row": "3",
+    "year": "1973",
+    "country": "Brazil"
+}, {
+    "name": "Embraer EMB 120 Brasilia",
+    "type": "Turboprop",
+    "seats": "30",
+    "seats_per_row": "3",
+    "year": "1985",
+    "country": "Brazil"
+}, {
+    "name": "Fairchild Swearingen Metroliner",
+    "type": "Turboprop",
+    "seats": "19",
+    "seats_per_row": "2",
+    "year": "1972",
+    "country": "USA"
+}, {
+    "name": "Fairchild-Dornier 328JET",
+    "type": "Jet",
+    "seats": "30-33",
+    "seats_per_row": "3",
+    "year": "1999",
+    "country": "Germany"
+}, {
+    "name": "Fokker 100",
+    "type": "Jet",
+    "seats": "97-122",
+    "seats_per_row": "5",
+    "year": "1988",
+    "country": "Netherlands"
+}, {
+    "name": "Fokker 50",
+    "type": "Turboprop",
+    "seats": "58",
+    "seats_per_row": "4",
+    "year": "1987",
+    "country": "Netherlands"
+}, {
+    "name": "Fokker 70",
+    "type": "Jet",
+    "seats": "72-85",
+    "seats_per_row": "5",
+    "year": "1994",
+    "country": "Netherlands"
+}, {
+    "name": "Fokker F27 Friendship",
+    "type": "Turboprop",
+    "seats": "48-56",
+    "seats_per_row": "4",
+    "year": "1958",
+    "country": "Netherlands"
+}, {
+    "name": "Fokker F28 Fellowship",
+    "type": "Jet",
+    "seats": "55-70",
+    "seats_per_row": "5",
+    "year": "1969",
+    "country": "Netherlands"
+}, {
+    "name": "GAF Nomad",
+    "type": "Utility",
+    "seats": "12",
+    "seats_per_row": "2",
+    "year": "1975",
+    "country": "Australia"
+}, {
+    "name": "Hawker Siddeley HS 748",
+    "type": "Turboprop",
+    "seats": "40-58",
+    "seats_per_row": "4",
+    "year": "1962",
+    "country": "UK"
+}, {
+    "name": "NAMC YS-11",
+    "type": "Turboprop",
+    "seats": "64",
+    "seats_per_row": "4",
+    "year": "1965",
+    "country": "Japan"
+}, {
+    "name": "Saab 2000",
+    "type": "Turboprop",
+    "seats": "50-58",
+    "seats_per_row": "3",
+    "year": "1994",
+    "country": "Sweden"
+}, {
+    "name": "Saab 340",
+    "type": "Turboprop",
+    "seats": "34",
+    "seats_per_row": "3",
+    "year": "1984",
+    "country": "Sweden"
+}, {
+    "name": "Yakovlev Yak-40",
+    "type": "Jet",
+    "seats": "32",
+    "seats_per_row": "4",
+    "year": "1968",
+    "country": "Russia"
+}, {
+    "name": "Yakovlev Yak-42",
+    "type": "Jet",
+    "seats": "104-120",
+    "seats_per_row": "6",
+    "year": "1980",
+    "country": "USSR / Russia"
+}, {
+    "name": "A\\u00e9rospatiale N 262",
+    "type": "Utility",
+    "seats": "23-29",
+    "seats_per_row": "3",
+    "year": "1964",
+    "country": "France"
+}, {
+    "name": "Airspeed Ambassador",
+    "type": "Utility",
+    "seats": "60",
+    "seats_per_row": "5",
+    "year": "1951",
+    "country": "UK"
+}, {
+    "name": "Antonov An-28",
+    "type": "Utility",
+    "seats": "18",
+    "seats_per_row": "3",
+    "year": "1986",
+    "country": "Ukraine"
+}, {
+    "name": "de Havilland Dove",
+    "type": "Utility",
+    "seats": "8",
+    "seats_per_row": "2",
+    "year": "1946",
+    "country": "UK"
+}, {
+    "name": "de Havilland Heron",
+    "type": "Utility",
+    "seats": "14",
+    "seats_per_row": "2",
+    "year": "1950",
+    "country": "UK"
+}, {
+    "name": "Handley Page Dart Herald",
+    "type": "Turboprop",
+    "seats": "47-56",
+    "seats_per_row": "4",
+    "year": "1961",
+    "country": "UK"
+}, {
+    "name": "Handley Page Jetstream",
+    "type": "Utility",
+    "seats": "16",
+    "seats_per_row": "3",
+    "year": "1969",
+    "country": "UK"
+}, {
+    "name": "IAI Arava",
+    "type": "Utility",
+    "seats": "20-24",
+    "seats_per_row": "4",
+    "year": "1972",
+    "country": "Israel"
+}, {
+    "name": "Mitsubishi MU-2",
+    "type": "Utility",
+    "seats": "4-12",
+    "seats_per_row": "2",
+    "year": "1963",
+    "country": "Japan"
+}, {
+    "name": "Saab 90 Scandia",
+    "type": "Utility",
+    "seats": "24-32",
+    "seats_per_row": "3",
+    "year": "1950",
+    "country": "Sweden"
+}, {
+    "name": "Short 330",
+    "type": "Turboprop",
+    "seats": "30",
+    "seats_per_row": "3",
+    "year": "1976",
+    "country": "UK"
+}, {
+    "name": "Short 360",
+    "type": "Turboprop",
+    "seats": "36",
+    "seats_per_row": "3",
+    "year": "1982",
+    "country": "UK"
+}, {
+    "name": "Short SC.7 Skyvan",
+    "type": "Utility",
+    "seats": "19",
+    "seats_per_row": "3",
+    "year": "1963",
+    "country": "UK"
+}, {
+    "name": "VFW-Fokker 614",
+    "type": "Jet",
+    "seats": "40-44",
+    "seats_per_row": "4",
+    "year": "1975",
+    "country": "Germany"
+}]
